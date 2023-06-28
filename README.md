@@ -1,2 +1,2 @@
-# haven-hub
-The web interface for haven (and blisskeeper), the Discord and Twitch bots to create and maintain a safe environment for communities. 
+# Haven Hub
+The web interface for Haven and Blisskeeper, the Discord and Twitch bots to create and maintain a safe environment for communities.
